@@ -1,0 +1,1 @@
+import{a as o,j as a}from"./index-90995241.js";import{P as r,f as s,S as n,F as e,C as t}from"./cursosPresentacion-293610c6.js";import"./tripleIco-3adce790.js";import"./pymuIco-6c1b0f00.js";const c=()=>o(r.Provider,{value:s,children:a("div",{className:"FundamentosProgra main-curso",children:[o(n,{temario:e,urlMain:"fundamentos_curso"}),o(t,{})]})});export{c as default};
