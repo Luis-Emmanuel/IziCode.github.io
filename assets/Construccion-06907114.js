@@ -1,0 +1,1 @@
+import{a as c,j as n}from"./index-6d317ad1.js";const o=()=>c("div",{className:"Construccion",children:c("div",{className:"contenido",children:c("div",{children:n("h1",{children:["LO SENTIMOS ESTA PÁGINA ESTÁ EN CONSTRUCCIÓN ",c("br",{})," (ง •_•)ง"]})})})});export{o as default};
